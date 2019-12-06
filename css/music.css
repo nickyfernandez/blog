@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Raleway&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Permanent+Marker|Raleway|Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Permanent+Marker|Raleway:400,700|Work+Sans&display=swap');
+
+body{
+background: url('../imagen/5.jpg');
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+/* puse dos head jaja , esta bien? */
+
+*{font-family: 'Open Sans', sans-serif;}
+h1{font-family: 'Raleway', sans-serif;font-size: 60px;}
+
+.top{margin-top: 40px;
+  text-align: right;
+  margin-right: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 60px;
+}
+
+.link{margin-left: 20px;}
+
+#menu{margin-top: 5px;}
+.top2{margin-top: 5px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.menu{margin-top: 5px;}
+
+li{
+  list-style-type: none;
+}
+.suave{color: rgb(140, 140, 140); margin: 4px;}
+/* esta mal hacerlo con alt 124?, con borde me salia muy pegado */
+
+
+a {
+  list-style-type: none;
+  text-decoration: none;
+  /* Porque no me saca lo azul */
+  color: black;
+}
+
+.mid{margin-top: 100px;margin-left: 10px;}
+.bot{color: #06C1D3; font-size: 20px;font-weight: lighter;}
+p{font-size: 15px;}
+.bot1{margin-top: 50px;margin-left: 60px;}
+.bot2{margin-top: 50px;margin-left: 60px;}
